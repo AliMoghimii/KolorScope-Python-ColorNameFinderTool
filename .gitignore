@@ -1,0 +1,7 @@
+/.vscode/
+/__pycache__/
+/Ignored/
+/dist/
+/build/
+*.pyc
+*.spec
